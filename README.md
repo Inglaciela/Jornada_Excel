@@ -1,27 +1,27 @@
 # Jornada Excel
 
-# Sumário
+## Sumário
 __________________________________
-# Aula 1
-## Base de Dados
-## Segmentação de Dados
-## Análises de Dados
-## CONT.SES
-## PROCV
-## Fução SE
+## Aula 1
+### Base de Dados
+### Segmentação de Dados
+### Análises de Dados
+### CONT.SES
+### PROCV
+### Fução SE
 
 __________________________________
-# Aula 2
-## Tabela Dinâmica
+## Aula 2
+### Tabela Dinâmica
 ## Efeito de Tela Cheia
-## Elementos Visuais
+### Elementos Visuais
 
 __________________________________
-# Aula 3
-## Indicadores
-## Formação
-## Graficos
+## Aula 3
+### Indicadores
+### Formação
+### Graficos
 
 __________________________________
-# Aula 4
-## Power Query
+## Aula 4
+### Power Query
